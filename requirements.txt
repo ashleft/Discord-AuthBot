@@ -1,0 +1,8 @@
+discord.py
+requests
+asyncio
+flask
+jishaku
+reactionmenu
+aiohttp
+fake_useragent

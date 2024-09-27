@@ -1,0 +1,21 @@
+{
+    "client_secret": "SECRET NAME = clientSecret",
+    "client_id": "SECRET NAME = clientId",
+    "bot_token": "SECRET NAME = botToken",
+    "VIDEO TUTORIAL": "https://youtu.be/HlQuCChy1Uc",
+
+    "redirect_uri": "<webaccess-url-here-localhost>",
+    "bot_invite": "https://discord.com/api/oauth2/authorize?client_id=<CLIENT-ID-HERE>&permissions=116737&scope=bot",
+    "authorize_url": "<GENERATED-DISCORD-REDIRECT-URI-AUTHORIZATION-URL-HERE>",
+    "authorize_vanity": "Encoders",
+    "owner_ids": [
+        166692371981926400
+    ],
+    "verification_system": false,
+    "verify_role_id": 1060261679134412810,
+    "verify_guild_id": 1049031589801246742,
+    "wl_guilds": [
+        "1113081338065592422"
+    ],
+    "webhook": "SECRET NAME = webhook"
+}
